@@ -12,6 +12,7 @@ namespace Lab6_Demo2
         protected void Page_Load(object sender, EventArgs e)
         {
             Console.WriteLine("ahihi");
+            Console.WriteLine("ahihi");
         }
     }
 }

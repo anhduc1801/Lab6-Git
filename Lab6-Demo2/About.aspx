@@ -3,12 +3,12 @@
 <asp:Content runat="server" ID="BodyContent" ContentPlaceHolderID="MainContent">
     <hgroup class="title">
         <h1><%: Title %>.</h1>
-        <h2>Your app description page.</h2>
+        <h2>Duc ha update.</h2>
     </hgroup>
 
     <article>
         <p>        
-            Minh duong vat
+            Minh duong vat 
         </p>
 
         <p>        

@@ -8,7 +8,7 @@
 
     <article>
         <p>        
-            Use this area to provide additional information.
+            Minh duong vat
         </p>
 
         <p>        

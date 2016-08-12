@@ -8,7 +8,7 @@
 
     <article>
         <p>        
-            Minh duong vat 
+            Minh duong
         </p>
 
         <p>        
